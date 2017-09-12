@@ -1,0 +1,4 @@
+/doc/
+/exe/*
+!/exe/.i_exist
+/lib/*.a
